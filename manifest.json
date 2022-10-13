@@ -1,0 +1,39 @@
+{
+  "name": "KumparanHukum",
+  "short_name": "KumparanHukum",
+  "scope": "https://www.kumparanhukum.com/",
+  "start_url": "https://www.kumparanhukum.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#1E90FF",
+  "description": "Kumparanhukum.com- Merupakan Media Baca tentang Khazanah keilmuan terkhusus dibidang ilmu hukum untuk dijadikan bahan edukasi, referensi dan pencerahan bagi masyarakat.",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgQHm9J36BqvKP5nMztiMLUrAGokJoTnAZSUIkYgd8dwX0xyVIe38DZa1ibfHl0zMKGh_63EJx0PKOyI5778WRp-WbTe0IlqmAIRwkksWM1SY9a5WurA4TDzK32udWw-nb362Df34gcSXR9Yj5LdRrTWfruOQFeAU58KSZZ45TqCgE2VjVqx2SN-epuw/s48/Favicon%20kumparanhukum%203.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgQHm9J36BqvKP5nMztiMLUrAGokJoTnAZSUIkYgd8dwX0xyVIe38DZa1ibfHl0zMKGh_63EJx0PKOyI5778WRp-WbTe0IlqmAIRwkksWM1SY9a5WurA4TDzK32udWw-nb362Df34gcSXR9Yj5LdRrTWfruOQFeAU58KSZZ45TqCgE2VjVqx2SN-epuw/s72/Favicon%20kumparanhukum%203.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgQHm9J36BqvKP5nMztiMLUrAGokJoTnAZSUIkYgd8dwX0xyVIe38DZa1ibfHl0zMKGh_63EJx0PKOyI5778WRp-WbTe0IlqmAIRwkksWM1SY9a5WurA4TDzK32udWw-nb362Df34gcSXR9Yj5LdRrTWfruOQFeAU58KSZZ45TqCgE2VjVqx2SN-epuw/s96/Favicon%20kumparanhukum%203.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgQHm9J36BqvKP5nMztiMLUrAGokJoTnAZSUIkYgd8dwX0xyVIe38DZa1ibfHl0zMKGh_63EJx0PKOyI5778WRp-WbTe0IlqmAIRwkksWM1SY9a5WurA4TDzK32udWw-nb362Df34gcSXR9Yj5LdRrTWfruOQFeAU58KSZZ45TqCgE2VjVqx2SN-epuw/s144/Favicon%20kumparanhukum%203.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgQHm9J36BqvKP5nMztiMLUrAGokJoTnAZSUIkYgd8dwX0xyVIe38DZa1ibfHl0zMKGh_63EJx0PKOyI5778WRp-WbTe0IlqmAIRwkksWM1SY9a5WurA4TDzK32udWw-nb362Df34gcSXR9Yj5LdRrTWfruOQFeAU58KSZZ45TqCgE2VjVqx2SN-epuw/s168/Favicon%20kumparanhukum%203.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgQHm9J36BqvKP5nMztiMLUrAGokJoTnAZSUIkYgd8dwX0xyVIe38DZa1ibfHl0zMKGh_63EJx0PKOyI5778WRp-WbTe0IlqmAIRwkksWM1SY9a5WurA4TDzK32udWw-nb362Df34gcSXR9Yj5LdRrTWfruOQFeAU58KSZZ45TqCgE2VjVqx2SN-epuw/s192/Favicon%20kumparanhukum%203.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgQHm9J36BqvKP5nMztiMLUrAGokJoTnAZSUIkYgd8dwX0xyVIe38DZa1ibfHl0zMKGh_63EJx0PKOyI5778WRp-WbTe0IlqmAIRwkksWM1SY9a5WurA4TDzK32udWw-nb362Df34gcSXR9Yj5LdRrTWfruOQFeAU58KSZZ45TqCgE2VjVqx2SN-epuw/s512/Favicon%20kumparanhukum%203.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
